@@ -449,7 +449,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **Mathematical Capabilities of ChatGPT** `NeurIPS 2023` [[paper]](https://arxiv.org/pdf/2301.13867.pdf) [NL]
 
-   *Simon Frieder and Luca Pinchetti and Alexis Chevalier and Ryan-Rhys Griffiths and Tommaso Salvatori and Thomas Lukasiewicz and Philipp Christian Petersen and Julius Berner*
+   *Frieder, Simon and Pinchetti, Luca and Chevalier, Alexis and Griffiths, Ryan-Rhys and Salvatori, Tommaso and Lukasiewicz, Thomas and Petersen, Philipp and Berner, Julius*
 
 1. **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models** `NeurIPS 2023` [[paper]](https://arxiv.org/pdf/2306.15626.pdf) [Lean]
 
@@ -973,7 +973,7 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
 1. **Mathematical Capabilities of ChatGPT** `NeurIPS 2023` [[paper]](https://arxiv.org/pdf/2301.13867.pdf) [NL]
 
-   *Simon Frieder and Luca Pinchetti and Alexis Chevalier and Ryan-Rhys Griffiths and Tommaso Salvatori and Thomas Lukasiewicz and Philipp Christian Petersen and Julius Berner*
+   *Frieder, Simon and Pinchetti, Luca and Chevalier, Alexis and Griffiths, Ryan-Rhys and Salvatori, Tommaso and Lukasiewicz, Thomas and Petersen, Philipp and Berner, Julius*
 
 1. **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models** `EMNLP 2023` [[paper]](https://arxiv.org/pdf/2310.10180.pdf) [Lean]
 

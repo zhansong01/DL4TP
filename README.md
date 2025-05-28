@@ -183,6 +183,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 
    *Gao, Guoxiong and Wang, Yutong and Jiang, Jiedong and Gao, Qi and Qin, Zihan and Xu, Tianyi and Dong, Bin* 
 
+1. **Rethinking and Improving Autoformalization: Towards a Faithful Metric and a Dependency Retrieval-Based Approach** `ICLR 2025` [[paper]](https://openreview.net/pdf?id=hUb2At2DsQ) [NL, Lean]
+
+   *Liu, Qi and Zheng, Xinhao and Lu, Xudong and Cao, Qinxiang and Yan, Junchi* 
+
+1. **Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving** `ArXiv 2025` [[paper]](https://arxiv.org/pdf/2505.04528) [NL, Lean]
+
+   *Liu, Qi and Zheng, Xinhao and Xia, Renqiu and Qi, Xingzhi and Cao, Qinxiang and Yan, Junchi* 
+
 ### Premise Selection
 
 1. **Deepmath - Deep Sequence Models for Premise Selection** `NeurIPS 2016` [[paper]](https://arxiv.org/pdf/1606.04442.pdf) [Mizar]
@@ -1058,6 +1066,14 @@ For more details, please refer to our survey paper: [A Survey on Deep Learning f
 1. **miniCTX: Neural Theorem Proving with (Long-) Contexts** `arXiv 2024` [[paper]](https://arxiv.org/pdf/2408.03350.pdf) [Lean]
 
    *Hu, Jiewen and Zhu, Thomas and Welleck, Sean*
+
+1. **Rethinking and Improving Autoformalization: Towards a Faithful Metric and a Dependency Retrieval-Based Approach** `ICLR 2025` [[paper]](https://openreview.net/pdf?id=hUb2At2DsQ) [NL, Lean]
+
+   *Liu, Qi and Zheng, Xinhao and Lu, Xudong and Cao, Qinxiang and Yan, Junchi*
+
+1. **Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving** `ArXiv 2025` [[paper]](https://arxiv.org/pdf/2505.04528) [NL, Lean]
+
+   *Liu, Qi and Zheng, Xinhao and Xia, Renqiu and Qi, Xingzhi and Cao, Qinxiang and Yan, Junchi* 
 
 ### Data Generation
 
